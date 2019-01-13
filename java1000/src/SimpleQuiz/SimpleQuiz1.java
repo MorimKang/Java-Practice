@@ -32,7 +32,6 @@ package SimpleQuiz;
 //[3] 다음 중 메서드의 반환값이 없음을 의미하는 키워드는?
 //1.void  2.null  3.false
 //[출처] [Java1000제] Simple Quiz 1 - 간단한 다지선다형 문제 (남궁성의 코드초보스터디(자바 java, c언어, javascript, python) |작성자 남궁성
-
 		
 class SimpleQuiz1 { 
     public static void main(String[] args) { 
