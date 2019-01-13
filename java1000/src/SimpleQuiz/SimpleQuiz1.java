@@ -51,7 +51,7 @@ class SimpleQuiz1 {
         	  String[] select = question[2].split("`");
                  // 4.반복문을 이용해서 선택지를 출력하세요.
         	  for(int j=0; j<select.length; j++) {
-        		  System.out.print((j+1) + ". " + select[j] + " ");
+        		  System.out.print((j+1) + ". " + select[j] + "  ");
         	  }
         	  System.out.println();System.out.println();
           } 
